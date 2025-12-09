@@ -1,4 +1,6 @@
-print('Hola GitHub')
+def main():
+    print("Inicio practica de portafolio.")
+    pass
 
-def saludo():
-    print('Aprendiendo Git paso a paso')
+if __name__ == "__main__":
+    main()
